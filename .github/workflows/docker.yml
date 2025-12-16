@@ -1,4 +1,4 @@
-name: build java Application
+name: test docker pull
 
 on:
   push:
